@@ -1,3 +1,5 @@
+Forked to make it fetchable by build.zig rather than having it in lib
+
 # ZBgfx
 
 [![GitHub Actions](https://github.com/cyberegoorg/zbgfx/actions/workflows/test.yaml/badge.svg)](https://github.com/cyberegoorg/zbgfx/actions/workflows/test.yaml)
