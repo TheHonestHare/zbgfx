@@ -5,6 +5,11 @@
         "libs",
         "build.zig",
         "build.zig.zon",
+        "src",
+        "examples",
+        "includes",
+        "tools",
+        "shaders",
     },
 
     .dependencies = .{},
